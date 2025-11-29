@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm VK 👋</h1>
 
 <h3 align="center" style="color: #4CAF50;">Full Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+Developer;Web+Developer" alt="Typing SVG" />
+</p>
+
 
 ---
 
