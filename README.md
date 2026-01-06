@@ -44,5 +44,5 @@ I love learning new technologies and improving my skills every day.
 ---
 
 ## 📫 Contact Me
-- **LinkedIn:** your link  
-- **Email:** your email
+- **Email:** itzzforvk@gmail.com
+  
