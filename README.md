@@ -18,16 +18,16 @@ I love learning new technologies and improving my skills every day.
 
 ### **Frontend**
 - HTML, CSS, JavaScript
-- React (if you know)
+- React 
 - UI/UX basics
 
 ### **Backend**
 - Node.js / Express
-- Java / Spring Boot (if applicable)
+- Java / Spring Boot 
 
 ### **Database**
 - MySQL  
-- MongoDB (optional)
+- MongoDB
 
 ### **Tools**
 - Git & GitHub  
